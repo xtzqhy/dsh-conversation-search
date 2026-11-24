@@ -1,0 +1,20 @@
+# 提交到 awesome-dsh-plugin（dsh-market 插件目录）用的条目
+#
+# 用法：在 https://github.com/awesome-dsh-plugin/awesome-dsh-plugin 提 PR，
+# 新增一个文件 data/plugins/xtzqhy__dsh-conversation-search.yml，内容如下。
+# 一个 PR 只加这一条；README 由仓库脚本生成，不要手动改。
+#
+# 提交前提（CI 会检查）：
+#   1. 仓库已推到 GitHub，且创建满 1 天；
+#   2. 仓库根 package.json 声明了 dsh.bundle（本仓库已有）；
+#   3. 仓库加了 dsh-plugin topic（GitHub 仓库页 About 右侧齿轮里设置）。
+#
+# 描述里出现 ": " 时必须加引号，否则 YAML 会当成嵌套键。
+
+url: https://github.com/xtzqhy/dsh-conversation-search
+name: xtzqhy/dsh-conversation-search
+category: ui
+description:
+  en: 'Keyword search inside the current conversation: matches the prompts you sent and the replies the model wrote, lists hits by turn, renders an expanded hit as Markdown with KaTeX, and jumps back to that turn in the chat.'
+  zh: '在当前对话内按关键词检索：覆盖你发出的提示词与模型回复，按轮次列出命中结果，展开后按 Markdown/KaTeX 渲染，并可跳回聊天中对应的那一轮。'
+icon: https://raw.githubusercontent.com/xtzqhy/dsh-conversation-search/main/assets/icon-180.png
