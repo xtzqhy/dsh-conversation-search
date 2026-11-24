@@ -21,7 +21,7 @@
 
 ```sh
 # 从 GitHub 源码安装（pnpm 直接拉仓库，无需构建）
-dsh plugin --profile web add github:YOUR_GITHUB_USERNAME/dsh-conversation-search
+dsh plugin --profile web add github:xtzqhy/dsh-conversation-search
 
 # 如果已发布到 npm，也可以直接按包名安装
 dsh plugin --profile web add dsh-conversation-search
@@ -42,7 +42,7 @@ dsh plugin --profile web add dsh-conversation-search
 本机调试时把它链接进 profile 即可：
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/dsh-conversation-search.git
+git clone https://github.com/xtzqhy/dsh-conversation-search.git
 dsh plugin --profile web add /absolute/path/to/dsh-conversation-search
 ```
 

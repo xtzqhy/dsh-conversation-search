@@ -13,13 +13,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/dsh-conversation-search.git"
+    "url": "git+https://github.com/xtzqhy/dsh-conversation-search.git"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/dsh-conversation-search#readme",
+  "homepage": "https://github.com/xtzqhy/dsh-conversation-search#readme",
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/dsh-conversation-search/issues"
+    "url": "https://github.com/xtzqhy/dsh-conversation-search/issues"
   },
-  "author": "YOUR_NAME",
+  "author": "xtzqhy",
   "type": "module",
   "main": "index.js",
   "icon": "./icon.svg",
