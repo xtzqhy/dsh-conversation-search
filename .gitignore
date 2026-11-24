@@ -1,0 +1,6 @@
+node_modules/
+.dcs-smoke/
+.dcs-npmcache/
+dist/
+*.log
+.DS_Store

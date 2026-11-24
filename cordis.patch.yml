@@ -1,0 +1,8 @@
+# dsh-conversation-search —— bundle 挂载声明
+#
+# 本插件是纯客户端插件：Host 侧入口只做占位，真正的 UI 在 client.js 里通过
+# window.__ModuleLoader__ 注册到会话输入框左侧（conversation.input.left）。
+
+- insert:
+    - id: dsh-conversation-search
+      name: dsh-conversation-search

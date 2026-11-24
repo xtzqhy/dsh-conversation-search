@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Conversation Search",
+    "description": "Search the current conversation by keyword: find the prompt you sent or the reply the model produced in any earlier turn.",
+    "detail": "docs/DETAIL.md"
+  }
+}
